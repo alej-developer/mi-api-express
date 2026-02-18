@@ -11,4 +11,4 @@ const buscarPorApellido = (apellido) => {
     );
 };
 
-module.exports = { buscarPorApellido };
+module.exports = {buscarPorApellido};
